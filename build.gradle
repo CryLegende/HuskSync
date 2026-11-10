@@ -26,6 +26,8 @@ ext {
     set 'postgres_driver_version', postgres_driver_version.toString()
     set 'mongodb_driver_version', mongodb_driver_version.toString()
     set 'snappy_version', snappy_version.toString()
+    set 'latencyutils_version', latencyutils_version.toString()
+    set 'hdrhistogram_version', hdrhistogram_version.toString()
 }
 
 publishing {
