@@ -25,3 +25,7 @@ dependencies:
       required: false
       load: BEFORE
       join-classpath: true
+    CombatLogX:
+      required: false
+      load: BEFORE
+      join-classpath: false

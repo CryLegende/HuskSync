@@ -11,6 +11,7 @@ softdepend:
   - 'ProtocolLib'
   - 'MysqlPlayerDataBridge'
   - 'Plan'
+  - 'CombatLogX'
 libraries:
   - 'io.lettuce:lettuce-core:${lettuce_version}'
   - 'org.apache.commons:commons-pool2:${commons_pool_version}'
